@@ -1,0 +1,13 @@
+store_id,store_name,region,city,country,store_size,open_date
+ST01,Global Retail Manhattan,North America,New York,USA,Large,3/1/2015
+ST02,Global Retail Midtown,North America,Chicago,USA,Medium,6/15/2017
+ST03,Global Retail Yorkdale,North America,Toronto,Canada,Medium,9/1/2018
+ST04,Global Retail Oxford Street,Europe,London,UK,Large,11/20/2014
+ST05,Global Retail Alexanderplatz,Europe,Berlin,Germany,Medium,4/10/2016
+ST06,Global Retail Gran Via,Europe,Madrid,Spain,Small,2/14/2019
+ST07,Global Retail Victoria Island,West Africa,Lagos,Nigeria,Large,8/5/2016
+ST08,Global Retail Wuse,West Africa,Abuja,Nigeria,Medium,1/22/2018
+ST09,Global Retail Osu,West Africa,Accra,Ghana,Small,5/30/2020
+ST10,Global Retail Orchard,Southeast Asia,Singapore,Singapore,Large,7/18/2015
+ST11,Global Retail Makati,Southeast Asia,Manila,Philippines,Medium,10/9/2017
+ST12,Global Retail Senayan,Southeast Asia,Jakarta,Indonesia,Medium,12/1/2019

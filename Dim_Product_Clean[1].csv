@@ -1,0 +1,70 @@
+product_id,product_name,category,sub_category,unit_cost
+P001,Zenith X200 Smartphone,Electronics,Smartphones,516.63
+P002,Zenith X200 Lite,Electronics,Smartphones,318.94
+P003,Orbit S9 Smartphone,Electronics,Smartphones,566.57
+P004,Orbit S9 Mini,Electronics,Smartphones,471.45
+P005,Voyager Pro 14 Laptop,Electronics,Laptops,115.56
+P006,Voyager Air 13 Laptop,Electronics,Laptops,635.62
+P007,Cortex Book 15 Laptop,Electronics,Laptops,509.07
+P008,Pulse Wireless Earbuds,Electronics,Audio,523.78
+P009,Pulse Over-Ear Headphones,Electronics,Audio,135.59
+P010,Boom Portable Speaker,Electronics,Audio,325.73
+P011,FastCharge 65W Adapter,Electronics,Accessories,278.77
+P012,ArmorGlass Screen Protector,Electronics,Accessories,606.79
+P013,SnapCase Phone Cover,Electronics,Accessories,439.88
+P014,Lumen 55in 4K TV,Electronics,TVs,545.43
+P015,Lumen 43in Smart TV,Electronics,TVs,321.61
+P016,Crunchy Plantain Chips,Grocery,Snacks,3.5
+P017,Golden Trail Mix,Grocery,Snacks,7.1
+P018,Cocoa Rice Crackers,Grocery,Snacks,1.7
+P019,Sunrise Orange Juice 1L,Grocery,Beverages,10.1
+P020,Highland Bottled Water 6pk,Grocery,Beverages,7.95
+P021,Roast House Coffee 500g,Grocery,Beverages,9.34
+P022,FineGrain Rice 5kg,Grocery,Household Staples,4.9
+P023,Harvest Beans 2kg,Grocery,Household Staples,11.68
+P024,GoldenPress Cooking Oil 1L,Grocery,Household Staples,10.82
+P025,Organic Plantain Bunch,Grocery,Fresh Produce,9.56
+P026,Farm Fresh Tomato Pack,Grocery,Fresh Produce,3.14
+P027,Sweet Pineapple Each,Grocery,Fresh Produce,6.13
+P028,Meadow Fresh Milk 1L,Grocery,Dairy,1.48
+P029,Creamline Yogurt 4pk,Grocery,Dairy,2.7
+P030,Golden Butter 250g,Grocery,Dairy,8.51
+P031,Nordic 3-Seat Sofa,Home & Living,Furniture,242.15
+P032,Haven Study Desk,Home & Living,Furniture,310.09
+P033,Drift Bar Stool,Home & Living,Furniture,114.38
+P034,ChefLine Non-Stick Pan Set,Home & Living,Kitchenware,127.99
+P035,PurePour Blender,Home & Living,Kitchenware,158.21
+P036,IronGrip Knife Set,Home & Living,Kitchenware,72.79
+P037,Aura Table Lamp,Home & Living,Décor,54.63
+P038,Willow Wall Mirror,Home & Living,Décor,160.09
+P039,Solace Throw Pillow Set,Home & Living,Décor,84.21
+P040,CloudSoft Duvet Set,Home & Living,Bedding,219.29
+P041,RestWell Memory Pillow,Home & Living,Bedding,148.33
+P042,LinenCo Bedsheet Set,Home & Living,Bedding,268.97
+P043,StackIt Storage Bins 3pk,Home & Living,Storage,228.58
+P044,TidyBox Shoe Organizer,Home & Living,Storage,110.27
+P045,Everyday Crew T-Shirt,Apparel,Menswear,50.77
+P046,Classic Fit Chino Pants,Apparel,Menswear,49.26
+P047,Urban Denim Jacket,Apparel,Menswear,26.31
+P048,Breeze Wrap Dress,Apparel,Womenswear,20.86
+P049,Signature Ankara Blouse,Apparel,Womenswear,42.54
+P050,Flex Yoga Leggings,Apparel,Womenswear,12.69
+P051,Little Explorer Hoodie,Apparel,Kidswear,15.99
+P052,PlayDay Shorts Set,Apparel,Kidswear,5.4
+P053,StrideFit Running Shoes,Apparel,Footwear,48.28
+P054,Everyday Canvas Sneakers,Apparel,Footwear,41.57
+P055,ComfortStep Sandals,Apparel,Footwear,43.78
+P056,Woven Leather Belt,Apparel,Fashion Accessories,47.94
+P057,Classic Aviator Sunglasses,Apparel,Fashion Accessories,30.24
+P058,HydraGlow Face Cream,Beauty & Personal Care,Skincare,21.2
+P059,PureLeaf Shea Butter Lotion,Beauty & Personal Care,Skincare,7.47
+P060,ClearSkin Face Wash,Beauty & Personal Care,Skincare,6.66
+P061,CocoNourish Hair Oil,Beauty & Personal Care,Haircare,24.39
+P062,SilkStrand Shampoo,Beauty & Personal Care,Haircare,18.08
+P063,CurlDefine Cream,Beauty & Personal Care,Haircare,21.09
+P064,Amber Nights Perfume,Beauty & Personal Care,Fragrance,27.48
+P065,Citrus Bloom Cologne,Beauty & Personal Care,Fragrance,23.31
+P066,ZenLeaf Herbal Tea 20pk,Beauty & Personal Care,Wellness,20.71
+P067,VitaBoost Multivitamin 60ct,Beauty & Personal Care,Wellness,20.89
+P068,SmoothEdge Razor Kit,Beauty & Personal Care,Grooming,12.73
+P069,BeardCraft Grooming Oil,Beauty & Personal Care,Grooming,3.99
